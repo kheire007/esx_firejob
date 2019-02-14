@@ -1,5 +1,7 @@
 # fxserver-esx_firejob
-FXServer ESX Fire Job inspired by esx-policejob
+FXServer ESX Fire Job 
+inspired by esx-policejob
+https://github.com/ESX-Org/esx_policejob
 
 [REQUIREMENTS]
 
